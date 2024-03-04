@@ -1,0 +1,50 @@
+[
+    {
+      "id": 11,
+      "name": "THE ALCHEMIST",
+      "cover": "assets/images/self-help-books-1.jpg.webp",
+      "rating": 2.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ATOMIC HABITS",
+      "cover": "assets/images/self-help-books-2.jpg.webp",
+      "rating": 1.85,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 13,
+      "name": "BEST SELF",
+      "cover": "assets/images/self-help-books-6.jpg.webp",
+      "rating": 3.25,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 14,
+      "name": "YOU ARE A BADASS",
+      "cover": "assets/images/self-help-books-9.jpg.webp",
+      "rating": 4.15,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 15,
+      "name": "12 RULES FOR LIFE",
+      "cover": "assets/images/self-help-books-10.jpg.webp",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 16,
+      "name": "DARING GREATLY",
+      "cover": "assets/images/self-help-books-15.jpg.webp",
+      "rating": 3.85,
+      "reviews": [
+      ]
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 17,
+      "name": " A VISIT FROM THE GOON SQUAD",
+      "cover": "assets/images/81Y7nR4h6-L-687x1024.jpg",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 18,
+      "name": " TRAIN DREAMS",
+      "cover": "assets/images/91cR7SY43SL-647x1024.jpg",
+      "rating": 2.53,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 19,
+      "name": "THE TIGER'S WIFE",
+      "cover": "assets/images/817FNKcZ1pL-663x1024.jpg",
+      "rating": 3.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 20,
+      "name": "SALVAGE THE BONES",
+      "cover": "assets/images/Salvage-the-Bones-Jesmyn-Ward.jpg",
+      "rating": 4.45,
+      "reviews": [
+        {
+          "author": "Albus Dumbledore",
+          "published_on": "2021-10-13 11:27:39",
+          "review": "Awesome movie!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "THE BUDDHA IN THE ARTIC",
+      "cover": "assets/images/Screen-Shot-2019-11-13-at-9.09.43-PM-207x300.png",
+      "rating": 4.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 22,
+      "name": "THE SELLOUT",
+      "cover": "assets/images/sellout-683x1024.jpg",
+      "rating": 4.95,
+      "reviews": [
+      ]
+    }
+  ]
